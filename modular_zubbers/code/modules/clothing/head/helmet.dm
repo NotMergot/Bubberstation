@@ -62,3 +62,11 @@
 	worn_icon = 'modular_zubbers/icons/mob/clothing/head/hats.dmi'
 	icon_state = "clussy_wig"
 	flags_inv = HIDEHAIR
+
+/obj/item/clothing/head/costume/ghost_mask
+	name = "Scary Mask"
+	desc = "Do you like scary movies?"
+	icon = 'modular_zubbers/icons/obj/clothing/head/hats.dmi'
+	worn_icon = 'modular_zubbers/icons/mob/clothing/head/hats.dmi'
+	icon_state = "ghost_mask"
+	flags_inv = HIDEHAIR

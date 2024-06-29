@@ -54,3 +54,10 @@
 	worn_icon_state = "flight"
 	icon = 'modular_zubbers/icons/obj/clothing/jacket.dmi'
 	worn_icon = 'modular_zubbers/icons/mob/clothing/suits/jacket.dmi'
+
+/obj/item/clothing/suit/jacket/ghost_cloak
+	name = "MA-1 flight jacket"
+	desc = "If you hang up on me again, I'll gut you like a fish!"
+	icon = 'modular_zubbers/icons/obj/clothing/jacket.dmi'
+	worn_icon = 'modular_zubbers/icons/mob/clothing/suits/jacket.dmi'
+	icon_state = 'ghost_cloak'
