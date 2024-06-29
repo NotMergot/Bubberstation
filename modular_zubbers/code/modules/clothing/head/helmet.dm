@@ -69,4 +69,5 @@
 	icon = 'modular_zubbers/icons/obj/clothing/head/hats.dmi'
 	worn_icon = 'modular_zubbers/icons/mob/clothing/head/hats.dmi'
 	icon_state = "ghost_mask"
+	inhand_icon_state = null
 	flags_inv = HIDEHAIR
