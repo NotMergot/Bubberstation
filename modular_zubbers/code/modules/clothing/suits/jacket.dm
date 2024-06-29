@@ -60,4 +60,4 @@
 	desc = "If you hang up on me again, I'll gut you like a fish!"
 	icon = 'modular_zubbers/icons/obj/clothing/jacket.dmi'
 	worn_icon = 'modular_zubbers/icons/mob/clothing/suits/jacket.dmi'
-	icon_state = 'ghost_cloak'
+	icon_state = "ghost_cloak"
